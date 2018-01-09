@@ -1,0 +1,45 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "mx.ferreyra.callnumber": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "cordova-plugin-googleplus": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    },
+    "cordova-plugin-facebook4": {
+      "APP_ID": "2017899395132874",
+      "APP_NAME": "bd",
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.cfori.bbiq"
+    }
+  }
+}
